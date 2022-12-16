@@ -1,7 +1,8 @@
 ![Alt-текст](https://i.ibb.co/1RNd4BC/Tranquillity-Studo.png "Tranquility Studio")
 
 # **Tranquillity Website Status Check**
-*TranquilityWebsiteStatusCheck checks sites from csv for 404, 403 and 202 response codes. Writes the resulting ones to Output.csv and Output.xlsx.*
+*TranquilityWebsiteStatusCheck checks sites from csv for 404, 403 and 202 response codes.*  
+*Writes the resulting ones to Output.csv and Output.xlsx.*
 
 
 ## **Files:**
@@ -37,7 +38,7 @@ ____
 		- [X] Code 404  
 		- [X] Code 403  
 		- [X] Code 200   
-	- [X] Multithreading  
+	- [ ] Multithreading  
 - [X] Releases  
     - [X] Version 1.0  
 ____
