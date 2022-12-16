@@ -38,8 +38,9 @@ ____
 		- [X] Code 404  
 		- [X] Code 403  
 		- [X] Code 200   
-	- [ ] Multithreading  
+	- [ ] Multithreading *[IN PROGRESS]*
 - [X] Releases  
     - [X] Version 1.0  
+    - [ ] Version 1.1 *[IN PROGRESS]*
 ____
 [:arrow_up:Contents](#Contents)
