@@ -30,13 +30,13 @@ ____
 
 - [X] Functional
 	- [X] File conversion  
-            - [X] CSV to XLSX   
-            - [X] XLSX to CSV   
+		- [X] From CSV To XLSX  
+		- [X] From XLSX To CSV   
 	- [X] Connect function, with the ability to reconnect  
 	- [X] Processing response codes from sites  
-            - [X] Code 404   
-            - [X] Code 403   
-            - [X] Code 200   
+		- [X] Code 404  
+		- [X] Code 403  
+		- [X] Code 200   
 	- [X] Multithreading  
 - [X] Releases  
     - [X] Version 1.0  
